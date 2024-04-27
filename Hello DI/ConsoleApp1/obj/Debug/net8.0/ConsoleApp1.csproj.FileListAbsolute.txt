@@ -1,0 +1,14 @@
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/viktortihovodov/Downloads/Hello DI/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
