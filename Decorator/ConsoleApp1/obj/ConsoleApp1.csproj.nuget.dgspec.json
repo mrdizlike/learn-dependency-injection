@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Weak dependency/WebApplication1/WebApplication1.csproj": {}
+    "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Decorator/ConsoleApp1/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Weak dependency/WebApplication1/WebApplication1.csproj": {
+    "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Decorator/ConsoleApp1/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Weak dependency/WebApplication1/WebApplication1.csproj",
-        "projectName": "WebApplication1",
-        "projectPath": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Weak dependency/WebApplication1/WebApplication1.csproj",
+        "projectUniqueName": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Decorator/ConsoleApp1/ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Decorator/ConsoleApp1/ConsoleApp1.csproj",
         "packagesPath": "/Users/viktortihovodov/.nuget/packages/",
-        "outputPath": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Weak dependency/WebApplication1/obj/",
+        "outputPath": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Decorator/ConsoleApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/viktortihovodov/.nuget/NuGet/NuGet.Config"
@@ -42,12 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,9 +54,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

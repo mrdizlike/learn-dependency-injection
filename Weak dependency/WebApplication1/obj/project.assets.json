@@ -2753,11 +2753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/viktortihovodov/Downloads/Weak dependecy/WebApplication1/WebApplication1.csproj",
+      "projectUniqueName": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Weak dependency/WebApplication1/WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "/Users/viktortihovodov/Downloads/Weak dependecy/WebApplication1/WebApplication1.csproj",
+      "projectPath": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Weak dependency/WebApplication1/WebApplication1.csproj",
       "packagesPath": "/Users/viktortihovodov/.nuget/packages/",
-      "outputPath": "/Users/viktortihovodov/Downloads/Weak dependecy/WebApplication1/obj/",
+      "outputPath": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Weak dependency/WebApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/viktortihovodov/.nuget/NuGet/NuGet.Config"

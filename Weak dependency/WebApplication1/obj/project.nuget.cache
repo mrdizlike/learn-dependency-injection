@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iI0dAu2IUw6pbB6hKKGqS4158g2nOv4Nv/y1gjn7JDwol/3L/TVdFssqD5ba+pkyfQILy97e0F0reKUZIqiPjg==",
+  "dgSpecHash": "FVZmZ8MS0/H0uha4t9NEjhl0dl10vXFZfEa2IFbMFHhUGeEusmVFLT0xpGx5cyvJyjDy6qWYr2qrn7lfhf+IQA==",
   "success": true,
-  "projectFilePath": "/Users/viktortihovodov/Downloads/Weak dependecy/WebApplication1/WebApplication1.csproj",
+  "projectFilePath": "/Users/viktortihovodov/Downloads/Dependency Injection/learn-dependency-injection/Weak dependency/WebApplication1/WebApplication1.csproj",
   "expectedPackageFiles": [
     "/Users/viktortihovodov/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/viktortihovodov/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
